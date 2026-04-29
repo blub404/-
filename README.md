@@ -2,7 +2,8 @@
 #Задание 1
 <img width="987" height="445" alt="image" src="https://github.com/user-attachments/assets/d49c2f81-0aba-4503-b42c-25868d1c5e11" />
 файл haproxy.cfg  
-'lobal
+'''
+lobal
         log /dev/log    local0
         log /dev/log    local1 notice
         chroot /var/lib/haproxy
@@ -59,7 +60,7 @@ frontend example  # секция фронтенд
         server s1 127.0.0.1:8888 check
         server s2 127.0.0.1:9999 check
 
-
+'''
 listen web_tcp
 
         bind :1325
