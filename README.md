@@ -1,5 +1,7 @@
 #Домашнее задание к занятию 2 «Кластеризация и балансировка нагрузки»
 #Задание 1
+<img width="2549" height="855" alt="image" src="https://github.com/user-attachments/assets/fceb2e20-b2c7-4f41-9ebf-971b317df7bf" />
+
 <img width="987" height="445" alt="image" src="https://github.com/user-attachments/assets/d49c2f81-0aba-4503-b42c-25868d1c5e11" />
 файл haproxy.cfg  
 ```
