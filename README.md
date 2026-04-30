@@ -4,7 +4,7 @@
 
 <img width="987" height="445" alt="image" src="https://github.com/user-attachments/assets/d49c2f81-0aba-4503-b42c-25868d1c5e11" />
 
-файл haproxy.cfg  
+файл [haproxy.cfg](https://github.com/blub404/-/blob/main/(1)haproxy.cfg)  
 ```
 global
         log /dev/log    local0
